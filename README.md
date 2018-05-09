@@ -4,12 +4,10 @@ Our objective was to test if the fingerprints excluding the thumb could carries 
 <br>
 
 ## Data<br>
-<br>
 The data for this research was collected from hospitals in Romania, by  Nicoleta Dragana, C. Vulpe, L. Guja.<br>
 The data is divided into three parts, the first part consists of fingerprints from Non-diabetic patients, the second part consists of fingerprints from Type-1 diabetic patients, and the last part consits of data from Type-2 diabetic patients.
 
 ## Artificial Neural Network <br>
-<br>
 In order to find the difference in patterns of fingerprints for Diabetic and Non-diabetic patients, we designed a Convonutional Neural Network and a Residual Neural Network. Out of these two Convonutional Neural Network worked the best.<br>
 The code for Convonutional Neural Network is here https://www.github.com/Sid2697/Diabetes_Research/blob/master/Type1VersusHealty.ipynb, and the code for Residual Neural Network is here https://github.com/Sid2697/Diabetes_Research/blob/master/ResNet%20Type1%20Vs.%20Healthy%20.ipynb.
 
