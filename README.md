@@ -9,10 +9,10 @@ The data is divided into three parts, the first part consists of fingerprints fr
 
 ## Artificial Neural Network <br>
 In order to find the difference in patterns of fingerprints for Diabetic and Non-diabetic patients, we designed a Convonutional Neural Network and a Residual Neural Network. Out of these two Convonutional Neural Network worked the best.<br>
-The code for Convonutional Neural Network is here https://www.github.com/Sid2697/Diabetes_Research/blob/master/Type1VersusHealty.ipynb, and the code for Residual Neural Network is here https://github.com/Sid2697/Diabetes_Research/blob/master/ResNet%20Type1%20Vs.%20Healthy%20.ipynb.
+The code for Convonutional Neural Network is [here](https://www.github.com/Sid2697/Diabetes_Research/blob/master/Type1VersusHealty.ipynb), and the code for Residual Neural Network is [here](https://github.com/Sid2697/Diabetes_Research/blob/master/ResNet%20Type1%20Vs.%20Healthy%20.ipynb).
 
 ## Publication
-The results of successfully identifying Diabetic patients were published with @alexandrudaia in this paper https://www.researchgate.net/publication/324219743_Unexpected_Results_Embedded_Information_in_Fingerprints_Regarding_Diabetes
+The results of successfully identifying Diabetic patients were published [here](https://www.researchgate.net/publication/324219743_Unexpected_Results_Embedded_Information_in_Fingerprints_Regarding_Diabetes) with @alexandrudaia.
 <br>
 Feel free to contribute to the code for increasing the accuracy.
 
